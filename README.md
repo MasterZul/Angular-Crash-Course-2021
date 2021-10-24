@@ -2,11 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
-## Development server (important to run it first)
+## Install Project (need to install first)
+
+Run `npm install` = cli to install the project.
+
+## Development server (Neeed to run the local server)
 
 Run `ng serve` = to run local host of this project. The app will automatically reload if you change any of the source files.
 
-## Run Jason Server (important to run it first)
+## Run Jason Server (Need to run to get mock api and data)
 
 Run `npm run server` = to run mock jason-server in port:5000
 
